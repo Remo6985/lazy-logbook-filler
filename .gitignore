@@ -1,0 +1,10 @@
+# Personal logbook data and local probe artifacts
+/logbook-template.xlsx
+/logbook-probe*.json
+/logbook-probe.js
+
+# OS junk
+.DS_Store
+Thumbs.db
+~$*
+.~lock.*
